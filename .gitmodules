@@ -1,0 +1,45 @@
+[submodule "2013"]
+	path = 2013
+	url = git@github.com:electionr/federal-election-commission-aggregation-2013.git
+[submodule "2014"]
+	path = 2014
+	url = git@github.com:electionr/federal-election-commission-aggregation-2014.git
+[submodule "2012"]
+	path = 2012
+	url = git@github.com:electionr/federal-election-commission-aggregation-2012.git
+[submodule "2011"]
+	path = 2011
+	url = git@github.com:electionr/federal-election-commission-aggregation-2011.git
+[submodule "2010"]
+	path = 2010
+	url = git@github.com:electionr/federal-election-commission-aggregation-2010.git
+[submodule "2009"]
+	path = 2009
+	url = git@github.com:electionr/federal-election-commission-aggregation-2009.git
+[submodule "2008"]
+	path = 2008
+	url = git@github.com:electionr/federal-election-commission-aggregation-2008.git
+[submodule "2007"]
+	path = 2007
+	url = git@github.com:electionr/federal-election-commission-aggregation-2007.git
+[submodule "2006"]
+	path = 2006
+	url = git@github.com:electionr/federal-election-commission-aggregation-2006.git
+[submodule "2005"]
+	path = 2005
+	url = git@github.com:electionr/federal-election-commission-aggregation-2005.git
+[submodule "2004"]
+	path = 2004
+	url = git@github.com:electionr/federal-election-commission-aggregation-2004.git
+[submodule "2003"]
+	path = 2003
+	url = git@github.com:electionr/federal-election-commission-aggregation-2003.git
+[submodule "2002"]
+	path = 2002
+	url = git@github.com:electionr/federal-election-commission-aggregation-2002.git
+[submodule "2001"]
+	path = 2001
+	url = git@github.com:electionr/federal-election-commission-aggregation-2001.git
+[submodule "2000"]
+	path = 2000
+	url = git@github.com:electionr/federal-election-commission-aggregation-2000.git
